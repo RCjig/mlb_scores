@@ -58,7 +58,7 @@ for scorecard_row in scorecard_rows:
 	for tables in single_cards_post:
 
 		#status
-		print "STATUS: FINAL",
+		print "STATUS: FINAL"
 
 		# set table
 		table_section = tables.find(class_="in-progress-table section ")
